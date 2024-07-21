@@ -15,6 +15,6 @@ git clone https://github.com/spices-lib/Spices-Engine-Example.git
 
 ---
 
-- Location in the folder **int/ **
+- Location in the folder **int/**
 - Open **SpicesGame__2024_07_21__01_28_11.sln** with visual studio 2022
 - Run **Main** Project
