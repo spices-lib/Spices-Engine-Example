@@ -1,0 +1,19 @@
+﻿  Building Custom Rule C:/Users/spiecs/Documents/NVIDIA Nsight Graphics/CppCaptures/SpicesGame__2024_07_21__11_34_38/CMakeLists.txt
+  Application.cpp
+  CommonReplay.cpp
+  DataScope.cpp
+  Helpers.cpp
+  ReadOnlyDatabase.cpp
+  ThreadPool.cpp
+  Threading.cpp
+  VulkanBootstrap.cpp
+  VulkanHelpers.cpp
+  VulkanReplay.cpp
+  VulkanStructCopy.cpp
+  VulkanStructHydrator.cpp
+  function_overrides.cpp
+  vk_mem_alloc.cpp
+  Win32Application.cpp
+  WindowSystem_Win32.cpp
+    正在创建库 C:/Users/spiecs/Documents/NVIDIA Nsight Graphics/CppCaptures/SpicesGame__2024_07_21__11_34_38/int/Debug/ReplayExecutor.lib 和对象 C:/Users/spiecs/Documents/NVIDIA Nsight Graphics/CppCaptures/SpicesGame__2024_07_21__11_34_38/int/Debug/ReplayExecutor.exp
+  ReplayExecutor.vcxproj -> C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\SpicesGame__2024_07_21__11_34_38\int\Debug\ReplayExecutor.dll

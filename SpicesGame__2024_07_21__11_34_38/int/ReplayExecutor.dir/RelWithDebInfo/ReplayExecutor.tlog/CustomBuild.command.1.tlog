@@ -1,0 +1,10 @@
+^C:\USERS\SPIECS\DOCUMENTS\NVIDIA NSIGHT GRAPHICS\CPPCAPTURES\SPICESGAME__2024_07_21__11_34_38\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/spiecs/Documents/NVIDIA Nsight Graphics/CppCaptures/SpicesGame__2024_07_21__11_34_38" "-BC:/Users/spiecs/Documents/NVIDIA Nsight Graphics/CppCaptures/SpicesGame__2024_07_21__11_34_38/int" --check-stamp-file "C:/Users/spiecs/Documents/NVIDIA Nsight Graphics/CppCaptures/SpicesGame__2024_07_21__11_34_38/int/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
