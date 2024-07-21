@@ -22,7 +22,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{FE6A1EE4-2A00-392B-8573-5B1463683E30}</ProjectGuid>
+    <ProjectGuid>{FFAB8714-B8B8-3D65-9A1C-EA2E64D3C731}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <WindowsTargetPlatformVersion>10.0.22000.0</WindowsTargetPlatformVersion>
     <Platform>x64</Platform>
@@ -125,7 +125,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     </PostBuildEvent>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\SpicesGame__2024_07_21__11_34_38\int\CMakeFiles\b13913d56cdbc09a0b1a4f67f4c3b297\INSTALL_force.rule">
+    <CustomBuild Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\Spices-Engine-Example\SpicesGame__2024_07_21__11_34_38\int\CMakeFiles\0697959481090697fc761f6b0d6da0e3\INSTALL_force.rule">
       <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'"> </Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
 cd .
@@ -137,7 +137,7 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\SpicesGame__2024_07_21__11_34_38\int\CMakeFiles\INSTALL_force</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\Spices-Engine-Example\SpicesGame__2024_07_21__11_34_38\int\CMakeFiles\INSTALL_force</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
       <VerifyInputsAndOutputsExist Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</VerifyInputsAndOutputsExist>
       <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'"> </Message>
@@ -151,7 +151,7 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\SpicesGame__2024_07_21__11_34_38\int\CMakeFiles\INSTALL_force</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\Spices-Engine-Example\SpicesGame__2024_07_21__11_34_38\int\CMakeFiles\INSTALL_force</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
       <VerifyInputsAndOutputsExist Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</VerifyInputsAndOutputsExist>
       <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'"> </Message>
@@ -165,7 +165,7 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\SpicesGame__2024_07_21__11_34_38\int\CMakeFiles\INSTALL_force</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\Spices-Engine-Example\SpicesGame__2024_07_21__11_34_38\int\CMakeFiles\INSTALL_force</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkObjects>
       <VerifyInputsAndOutputsExist Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</VerifyInputsAndOutputsExist>
       <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'"> </Message>
@@ -179,20 +179,20 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\SpicesGame__2024_07_21__11_34_38\int\CMakeFiles\INSTALL_force</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\Spices-Engine-Example\SpicesGame__2024_07_21__11_34_38\int\CMakeFiles\INSTALL_force</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">false</LinkObjects>
       <VerifyInputsAndOutputsExist Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">false</VerifyInputsAndOutputsExist>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\SpicesGame__2024_07_21__11_34_38\int\ZERO_CHECK.vcxproj">
-      <Project>{2FEFC7DF-4343-3C37-8F34-3B6383A3754D}</Project>
+    <ProjectReference Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\Spices-Engine-Example\SpicesGame__2024_07_21__11_34_38\int\ZERO_CHECK.vcxproj">
+      <Project>{0731437C-848B-367D-909C-BEBA539D3D2F}</Project>
       <Name>ZERO_CHECK</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\SpicesGame__2024_07_21__11_34_38\int\ALL_BUILD.vcxproj">
-      <Project>{27850B83-5ABC-3068-91D0-0D0CED32DD99}</Project>
+    <ProjectReference Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\Spices-Engine-Example\SpicesGame__2024_07_21__11_34_38\int\ALL_BUILD.vcxproj">
+      <Project>{687502B2-9091-3D82-84B2-039C4B6E820E}</Project>
       <Name>ALL_BUILD</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>

@@ -1,61 +1,61 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\SpicesGame__2024_07_21__11_34_38\Application.cpp">
+    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\Spices-Engine-Example\SpicesGame__2024_07_21__11_34_38\Application.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\SpicesGame__2024_07_21__11_34_38\CommonReplay.cpp">
+    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\Spices-Engine-Example\SpicesGame__2024_07_21__11_34_38\CommonReplay.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\SpicesGame__2024_07_21__11_34_38\DataScope.cpp">
+    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\Spices-Engine-Example\SpicesGame__2024_07_21__11_34_38\DataScope.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\SpicesGame__2024_07_21__11_34_38\Helpers.cpp">
+    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\Spices-Engine-Example\SpicesGame__2024_07_21__11_34_38\Helpers.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\SpicesGame__2024_07_21__11_34_38\ReadOnlyDatabase.cpp">
+    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\Spices-Engine-Example\SpicesGame__2024_07_21__11_34_38\ReadOnlyDatabase.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\SpicesGame__2024_07_21__11_34_38\ThreadPool.cpp">
+    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\Spices-Engine-Example\SpicesGame__2024_07_21__11_34_38\ThreadPool.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\SpicesGame__2024_07_21__11_34_38\Threading.cpp">
+    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\Spices-Engine-Example\SpicesGame__2024_07_21__11_34_38\Threading.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\SpicesGame__2024_07_21__11_34_38\VulkanBootstrap.cpp">
+    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\Spices-Engine-Example\SpicesGame__2024_07_21__11_34_38\VulkanBootstrap.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\SpicesGame__2024_07_21__11_34_38\VulkanHelpers.cpp">
+    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\Spices-Engine-Example\SpicesGame__2024_07_21__11_34_38\VulkanHelpers.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\SpicesGame__2024_07_21__11_34_38\VulkanReplay.cpp">
+    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\Spices-Engine-Example\SpicesGame__2024_07_21__11_34_38\VulkanReplay.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\SpicesGame__2024_07_21__11_34_38\VulkanStructCopy.cpp">
+    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\Spices-Engine-Example\SpicesGame__2024_07_21__11_34_38\VulkanStructCopy.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\SpicesGame__2024_07_21__11_34_38\VulkanStructHydrator.cpp">
+    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\Spices-Engine-Example\SpicesGame__2024_07_21__11_34_38\VulkanStructHydrator.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\SpicesGame__2024_07_21__11_34_38\function_overrides.cpp">
+    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\Spices-Engine-Example\SpicesGame__2024_07_21__11_34_38\function_overrides.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\SpicesGame__2024_07_21__11_34_38\vk_mem_alloc.cpp">
+    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\Spices-Engine-Example\SpicesGame__2024_07_21__11_34_38\vk_mem_alloc.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\SpicesGame__2024_07_21__11_34_38\Win32Application.cpp">
+    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\Spices-Engine-Example\SpicesGame__2024_07_21__11_34_38\Win32Application.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\SpicesGame__2024_07_21__11_34_38\WindowSystem_Win32.cpp">
+    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\Spices-Engine-Example\SpicesGame__2024_07_21__11_34_38\WindowSystem_Win32.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\SpicesGame__2024_07_21__11_34_38\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\Spices-Engine-Example\SpicesGame__2024_07_21__11_34_38\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{05D70052-400E-338D-8065-522187ADFF7C}</UniqueIdentifier>
+      <UniqueIdentifier>{322F6DFF-0930-343F-88DB-E3901582882E}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

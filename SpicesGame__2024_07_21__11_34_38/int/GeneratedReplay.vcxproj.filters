@@ -1,49 +1,49 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\SpicesGame__2024_07_21__11_34_38\CommandList00.cpp">
+    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\Spices-Engine-Example\SpicesGame__2024_07_21__11_34_38\CommandList00.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\SpicesGame__2024_07_21__11_34_38\Frame0Part00.cpp">
+    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\Spices-Engine-Example\SpicesGame__2024_07_21__11_34_38\Frame0Part00.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\SpicesGame__2024_07_21__11_34_38\FrameReset00.cpp">
+    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\Spices-Engine-Example\SpicesGame__2024_07_21__11_34_38\FrameReset00.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\SpicesGame__2024_07_21__11_34_38\FrameSetup00.cpp">
+    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\Spices-Engine-Example\SpicesGame__2024_07_21__11_34_38\FrameSetup00.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\SpicesGame__2024_07_21__11_34_38\PerfMarkersReset.cpp">
+    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\Spices-Engine-Example\SpicesGame__2024_07_21__11_34_38\PerfMarkersReset.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\SpicesGame__2024_07_21__11_34_38\PerfMarkersSetup.cpp">
+    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\Spices-Engine-Example\SpicesGame__2024_07_21__11_34_38\PerfMarkersSetup.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\SpicesGame__2024_07_21__11_34_38\ReplayProcedures.cpp">
+    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\Spices-Engine-Example\SpicesGame__2024_07_21__11_34_38\ReplayProcedures.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\SpicesGame__2024_07_21__11_34_38\Resources00.cpp">
+    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\Spices-Engine-Example\SpicesGame__2024_07_21__11_34_38\Resources00.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\SpicesGame__2024_07_21__11_34_38\Resources01.cpp">
+    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\Spices-Engine-Example\SpicesGame__2024_07_21__11_34_38\Resources01.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\SpicesGame__2024_07_21__11_34_38\Resources02.cpp">
+    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\Spices-Engine-Example\SpicesGame__2024_07_21__11_34_38\Resources02.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\SpicesGame__2024_07_21__11_34_38\WinResourcesReset.cpp">
+    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\Spices-Engine-Example\SpicesGame__2024_07_21__11_34_38\WinResourcesReset.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\SpicesGame__2024_07_21__11_34_38\WinResourcesSetup.cpp">
+    <ClCompile Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\Spices-Engine-Example\SpicesGame__2024_07_21__11_34_38\WinResourcesSetup.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\SpicesGame__2024_07_21__11_34_38\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\Spices-Engine-Example\SpicesGame__2024_07_21__11_34_38\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{05D70052-400E-338D-8065-522187ADFF7C}</UniqueIdentifier>
+      <UniqueIdentifier>{322F6DFF-0930-343F-88DB-E3901582882E}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

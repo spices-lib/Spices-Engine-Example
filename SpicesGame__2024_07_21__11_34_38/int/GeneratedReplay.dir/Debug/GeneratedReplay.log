@@ -1,4 +1,4 @@
-﻿  Building Custom Rule C:/Users/spiecs/Documents/NVIDIA Nsight Graphics/CppCaptures/SpicesGame__2024_07_21__11_34_38/CMakeLists.txt
+﻿  Building Custom Rule C:/Users/spiecs/Documents/NVIDIA Nsight Graphics/CppCaptures/Spices-Engine-Example/SpicesGame__2024_07_21__11_34_38/CMakeLists.txt
   CommandList00.cpp
   Frame0Part00.cpp
   FrameReset00.cpp
@@ -11,5 +11,5 @@
   Resources02.cpp
   WinResourcesReset.cpp
   WinResourcesSetup.cpp
-    正在创建库 C:/Users/spiecs/Documents/NVIDIA Nsight Graphics/CppCaptures/SpicesGame__2024_07_21__11_34_38/int/Debug/GeneratedReplay.lib 和对象 C:/Users/spiecs/Documents/NVIDIA Nsight Graphics/CppCaptures/SpicesGame__2024_07_21__11_34_38/int/Debug/GeneratedReplay.exp
-  GeneratedReplay.vcxproj -> C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\SpicesGame__2024_07_21__11_34_38\int\Debug\GeneratedReplay.dll
+    正在创建库 C:/Users/spiecs/Documents/NVIDIA Nsight Graphics/CppCaptures/Spices-Engine-Example/SpicesGame__2024_07_21__11_34_38/int/Debug/GeneratedReplay.lib 和对象 C:/Users/spiecs/Documents/NVIDIA Nsight Graphics/CppCaptures/Spices-Engine-Example/SpicesGame__2024_07_21__11_34_38/int/Debug/GeneratedReplay.exp
+  GeneratedReplay.vcxproj -> C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\Spices-Engine-Example\SpicesGame__2024_07_21__11_34_38\int\Debug\GeneratedReplay.dll

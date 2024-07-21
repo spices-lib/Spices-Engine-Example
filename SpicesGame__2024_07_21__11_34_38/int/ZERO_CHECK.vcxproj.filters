@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <CustomBuild Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\SpicesGame__2024_07_21__11_34_38\int\CMakeFiles\b13913d56cdbc09a0b1a4f67f4c3b297\generate.stamp.rule">
+    <CustomBuild Include="C:\Users\spiecs\Documents\NVIDIA Nsight Graphics\CppCaptures\Spices-Engine-Example\SpicesGame__2024_07_21__11_34_38\int\CMakeFiles\0697959481090697fc761f6b0d6da0e3\generate.stamp.rule">
       <Filter>CMake Rules</Filter>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="CMake Rules">
-      <UniqueIdentifier>{91E389C4-55B7-34EA-BF89-B51D49E8C522}</UniqueIdentifier>
+      <UniqueIdentifier>{D7BE9004-71C8-39C1-903A-39588E6E6267}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
